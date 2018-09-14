@@ -1,0 +1,21 @@
+
+.myImage {
+    width: 30%;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.myImage:hover {
+    background-color: rgba(255, 255,255, 0.9);
+}
+
+.contato p {
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    padding: 1rem;
+}
+
+.galeria {
+    margin-top: 20%;
+}
